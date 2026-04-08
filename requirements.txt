@@ -1,0 +1,15 @@
+langchain
+langchain-groq
+groq
+langchain-chroma
+langchain-community
+langchain-text-splitters
+langchain-core
+chromadb
+beautifulsoup4
+requests
+tiktoken
+lxml
+python-dotenv
+flask
+flask-cors
